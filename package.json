@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/diogoadao/React.git",
   "author": "Diogo Adão",
-  "license": "MIT",
+  "license": "APACHE 2.0",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1"
