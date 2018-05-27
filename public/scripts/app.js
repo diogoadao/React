@@ -1,10 +1,13 @@
-console.log('app-js is running');
+"use strict";
 
-/** @jsx React.DOM */
-var template = React.createElement(
-    "h1",
-    {id: "something"},
-    "test"
-);
-var approot = document.getElementById('app');
-ReactDOM.render(template, approot);
+var namevar = "Diogo";
+namevar = "Adão";
+console.log("namevar:", namevar);;
+
+var namelet = "catarina";
+namelet = "diogo";
+console.log("namelet: ", namelet);
+
+var nameConst = "diogo";
+
+console.log("nameconst:", nameConst);
